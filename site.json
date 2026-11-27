@@ -1,0 +1,44 @@
+{
+  "appName": "Ai assistance",
+  "tagline": "",
+  "description": "Introducing Jeeves.AI: The Ultimate AI Copywriting Assistant That Will Transform Your Writing Forever!\nAre you tired of struggling with words, searching for the perfect way to express your thoughts?\n\nImagine a world where you have a personal copywriting assistant that can generate engaging and persuasive content in seconds. Presenting Jeeves.AI, a cutting-edge AI copywriting app that will revolutionize the way you write!\n\nJeeves.AI is designed for businesses, entrepreneurs, and writers who need powerful, compelling content that connects with readers and drives action. Here's why Jeeves.AI will become your go-to writing tool:\n\n1. Time-saving: Say goodbye to writer's block! Jeeves.AI's advanced AI technology creates high-quality content in a fraction of the time it takes to write manually. Focus on what matters most – growing your business!\n\n2. Effortless Creativity: Unleash your creative potential with Jeeves.AI's wide range of writing styles and tones. Whether you need persuasive sales copy, engaging blog posts, or captivating social media captions, Jeeves.AI delivers the perfect words every time.\n\n3. Customizable & Adaptive: With its intuitive interface, Jeeves.AI adapts to your specific needs and preferences. You have full control over the final output, so your content will always be on-brand and tailored to your target audience.\n\n4. Cost-effective: Save thousands on hiring professional copywriters. Jeeves.AI offers an affordable, one-time payment plan with unlimited usage. Get the best value for your investment!\n\n5. Discord Chat Support: Our team of experts is always on hand to assist you, ensuring your writing journey with Jeeves.AI is seamless and enjoyable.\n\nDon't miss out on the opportunity to elevate your writing game and achieve the success you've always dreamed of!\n\nExperience the power of Jeeves.AI today by Jeeves.AI and unlock your full writing potential!\n\nRead more about our terms and conditions here —\nhttps://jeeves.ai/static/terms.html\n\nRead more about our privacy policy here —\nhttps://jeeves.ai/static/privacy.html",
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "companyName": "STC AI",
+  "companyAddress": "",
+  "contactEmail": "ismailamahama2020@gmail.com",
+  "dataCollected": "",
+  "thirdParties": [
+    "Google AdMob",
+    "Meta Audience Network",
+    "Google Analytics",
+    "Firebase Analytics",
+    "Adjust",
+    "Firebase Crashlytics",
+    "Firebase Performance Monitoring"
+  ],
+  "noThirdParties": false,
+  "childrenDirected": false,
+  "hasSubscription": true,
+  "effectiveDate": "",
+  "accentColor": "",
+  "figmaUrl": "",
+  "extraNotes": "",
+  "storeUrl": null,
+  "packageName": "com.ai.assistant.smart.chat.helper",
+  "store": "Google Play",
+  "platform": "android",
+  "siteUrl": null,
+  "hosting": null,
+  "images": [
+    { "file": "assets/img/app-icon.png", "source": "pm-upload", "role": "app icon" },
+    { "file": "assets/img/screenshot-01.png", "source": "pm-upload", "role": "hero / Home: ask anything" },
+    { "file": "assets/img/screenshot-02.png", "source": "pm-upload", "role": "AI Fashion Studio: outfit try-on, hairstyle changer" },
+    { "file": "assets/img/screenshot-03.png", "source": "pm-upload", "role": "Photo tools: enhance, restore, object remove, filters" },
+    { "file": "assets/img/screenshot-04.png", "source": "pm-upload", "role": "Create: AI art, tattoo, logo, video" },
+    { "file": "assets/img/screenshot-05.png", "source": "pm-upload", "role": "Explore news" },
+    { "file": "assets/img/screenshot-06.png", "source": "pm-upload", "role": "Write, translate, scan text, summary" }
+  ]
+}
