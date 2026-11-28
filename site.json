@@ -6,9 +6,9 @@
   "languages": [
     "en"
   ],
-  "companyName": "STC AI",
+  "companyName": "VIPRO AI",
   "companyAddress": "",
-  "contactEmail": "ismailamahama2020@gmail.com",
+  "contactEmail": "jaanmengalj@gmail.com",
   "dataCollected": "",
   "thirdParties": [
     "Google AdMob",
@@ -30,8 +30,8 @@
   "packageName": "com.ai.assistant.smart.chat.helper",
   "store": "Google Play",
   "platform": "android",
-  "siteUrl": null,
-  "hosting": null,
+  "siteUrl": "https://future-assistance.vercel.app",
+  "hosting": "vercel",
   "images": [
     { "file": "assets/img/app-icon.png", "source": "pm-upload", "role": "app icon" },
     { "file": "assets/img/screenshot-01.png", "source": "pm-upload", "role": "hero / Home: ask anything" },
